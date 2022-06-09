@@ -1,0 +1,26 @@
+{
+    "herov1": {
+        "desc" : "bewqhdwbdhbewfhbfqhfhd jbnfjewfv jefnbjqernbf nfjqernfj ewnfjqenbfujqer",
+        "button": {
+            "btn1": "GET STARTED",
+            "btnurl1": "special-features"
+        },
+        "img": "/assets/img/bg2.jpeg",
+        "typedText": ["Welcome to SL-E-DECLARATION"]
+    },
+
+    "herov2": {
+        "desc" : "",
+        "typedText": ["Please fill the following details"]
+    },
+    "results": {
+        "sectionHeading": {
+            "title": "<span>Calculation Results</span>",
+            "desc": ""
+        }
+    },
+    
+    "upload": {
+        "bgImg": "/assets/img/special-feature-bg.jpg"
+    }
+}

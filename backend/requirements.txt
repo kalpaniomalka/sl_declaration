@@ -1,0 +1,9 @@
+qrcode==7.3.1
+Flask==1.1.1
+tensorflow==2.6.0
+Flask_Cors==3.0.10
+opencv_python==4.3.0.36
+Werkzeug==1.0.0
+numpy==1.22.3
+Pillow==9.1.0
+tomlkit==0.10.2

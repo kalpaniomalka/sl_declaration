@@ -1,0 +1,49 @@
+{
+  "name": "pythoninvestigator",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "axios": "^0.26.1",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jspdf": "^2.5.1",
+    "lodash": "^4.17.21",
+    "mdbreact": "^5.2.0",
+    "react": "^18.0.0",
+    "react-bootstrap": "^2.2.3",
+    "react-countdown-now": "^2.1.0",
+    "react-dom": "^18.0.0",
+    "react-owl-carousel2": "^0.3.0",
+    "react-router-dom": "^5.0.0",
+    "react-router-hash-link": "^1.2.1",
+    "react-scripts": "3.0.0",
+    "react-search-field": "^2.0.1",
+    "react-social-icons": "^5.13.0",
+    "react-typed": "^1.1.2",
+    "reactstrap": "^8.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
